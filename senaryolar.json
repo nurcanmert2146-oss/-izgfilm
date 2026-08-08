@@ -1,17 +1,25 @@
 [
   {
-    "baslik": "ÖRNEK BÖLÜM 1",
+    "baslik": "EDE İLE ZUZU - Camı Kim Kırdı?",
     "sahneler": [
-      { "metin": "Buraya birinci sahnenin konuşma metni gelecek.", "gorsel": "a friendly cartoon fox waving in a sunny forest" },
-      { "metin": "İkinci sahnenin metni burada.", "gorsel": "the cartoon fox looking surprised, big eyes, close up" },
-      { "metin": "Kapanış cümlesi burada.", "gorsel": "the cartoon fox smiling, thumbs up, colorful background" }
-    ]
-  },
-  {
-    "baslik": "ÖRNEK BÖLÜM 2",
-    "sahneler": [
-      { "metin": "Yeni bölümün ilk sahnesi.", "gorsel": "a cartoon rabbit reading a book under a tree" },
-      { "metin": "Devam eden sahne.", "gorsel": "the cartoon rabbit jumping happily, motion lines" }
+      { "metin": "Bu, Ede ile Zuzu'nun hikâyesi. Ede Maraşlı; çok konuşur, başı sıkışınca hemen bir bahane bulur. Zuzu ise Diyarbakırlı; soğukkanlıdır ama Ede'nin bütün yalanlarını anında yakalar. Hazırsanız başlıyoruz.", "gorsel": "title card, two cute cartoon kids, a boy named Ede and a girl named Zuzu, smiling together in a sunny neighborhood street" },
+      { "metin": "Bir yaz günü, mahallenin arasında iki çocuk plastik bir topla maç yapıyordu.", "gorsel": "two cartoon kids playing football with a plastic ball on a neighborhood street, sunny summer day" },
+      { "metin": "Ede topu ayağının ucuna aldı ve bağırdı: Hele Zuzu, geç kaleye bakalım! Bu atacağım gol var ya, vallahi televizyona çıkar!", "gorsel": "confident cartoon boy Ede pointing forward, holding a ball at his feet, big grin" },
+      { "metin": "Zuzu güldü: Az sık lo! Geçen sefer de aynısını demiştin, top gitti çöp kutusuna girdi oğlum.", "gorsel": "cartoon girl Zuzu standing as goalkeeper, smirking, hands on hips" },
+      { "metin": "Ede inat etti: Yok, bu sefer başka! Ve topa var gücüyle vurdu.", "gorsel": "cartoon boy Ede kicking a ball very hard, dynamic motion lines" },
+      { "metin": "ŞAAAK! Bir cam kırılma sesi bütün mahalleyi inletti. İkisi de olduğu yerde donup kaldı.", "gorsel": "a house window shattering, two cartoon kids frozen in shock with wide eyes" },
+      { "metin": "Kısa bir sessizlik oldu. Zuzu yavaşça Ede'ye döndü: Aha, çıktın işte televizyona! İçin rahatladı mı? Ede şaşkın şaşkın bakakaldı.", "gorsel": "cartoon girl Zuzu turning to give a deadpan look at cartoon boy Ede who looks stunned" },
+      { "metin": "Ede hemen topu Zuzu'nun eline tutuşturdu. Zuzu şaşırdı. Ede: Top sende Zuzu, sakın yalan konuşma!", "gorsel": "cartoon boy Ede quickly pushing the ball into the hands of a surprised cartoon girl" },
+      { "metin": "Zuzu itiraz etti: Ma niye yalan söyleyeyim, topa sen vurdun ya oğlum! Ede: Kanıtla o zaman, ispat et!", "gorsel": "two cartoon kids arguing playfully, pointing at each other" },
+      { "metin": "Zuzu ayağını gösterdi: Ma görmüyor musun, ayağımda terlik var; ben bununla topa nasıl vurayım? Ede terliğe baktı: Hee, doğru vallahi.", "gorsel": "close up of a cartoon girl's foot wearing a slipper, a puzzled boy looking down at it" },
+      { "metin": "Tam o sırada pencereden ev sahibi amca çıktı: Camı kim kırdı? Ede hiç düşünmeden gökyüzünü gösterdi: Emmi, biz kırmadık; şu taraftan bir rüzgâr geldi!", "gorsel": "an older cartoon neighbor man leaning out of a broken window, a boy below pointing up at the sky" },
+      { "metin": "Amca aşağıya, topa baktı: Yani rüzgâr topu mu şutladı? Zuzu gülmemek için dudağını ısırdı.", "gorsel": "cartoon neighbor man looking down skeptically at a ball on the ground, a girl biting her lip to hold in laughter" },
+      { "metin": "Amca sesini yumuşattı: Doğruyu söyleyin çocuklar, kim kırdı bu camı? Ede sonunda dayanamadı: Emmi, öfkelenme ama, tamam, ben kırdım yaw.", "gorsel": "cartoon boy Ede looking guilty but honest, kind neighbor man listening" },
+      { "metin": "Amca bir an sustu. Sonra cebinden yepyeni bir plastik top çıkardı ve gülümsedi: Ben de sizin yaşınızdayken her hafta bir cam kırardım. Ama biz önce özür dilerdik.", "gorsel": "kind cartoon neighbor man smiling and pulling a new ball from his pocket, two amazed kids" },
+      { "metin": "Ede utandı: Kusura bakma emmi, çok özür dileriz. Amca: Bir dahaki sefere burada değil, şu boş arsada oynayın.", "gorsel": "two cartoon kids apologizing sincerely to a smiling neighbor man" },
+      { "metin": "İkisi sevinerek uzaklaştı. Tam giderken, ŞAAATT! Bu kez boş arsadaki komşunun sera camı kırıldı.", "gorsel": "two cartoon kids walking away happily while a greenhouse glass shatters in the background" },
+      { "metin": "Zuzu derin bir nefes aldı: Ula Ede, senin ayağında mıknatıs mı var? Her vurduğun top mutlaka bir cama gidiyor! Ede omuz silkti: Ne edeyim Zuzu, kaleye nişan almıştım.", "gorsel": "cartoon girl sighing with hand on forehead, cartoon boy shrugging innocently, a broken greenhouse behind them" },
+      { "metin": "İkisi birbirine bakıp kahkahayla gülmeye başladı. Ede ile Zuzu'nun maceraları daha yeni başlıyor. Yeni bölümlerde görüşmek üzere!", "gorsel": "two cartoon kids laughing together happily, warm sunset over the neighborhood, closing scene" }
     ]
   }
 ]
