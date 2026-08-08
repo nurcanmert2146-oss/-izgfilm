@@ -1,0 +1,17 @@
+[
+  {
+    "baslik": "ÖRNEK BÖLÜM 1",
+    "sahneler": [
+      { "metin": "Buraya birinci sahnenin konuşma metni gelecek.", "gorsel": "a friendly cartoon fox waving in a sunny forest" },
+      { "metin": "İkinci sahnenin metni burada.", "gorsel": "the cartoon fox looking surprised, big eyes, close up" },
+      { "metin": "Kapanış cümlesi burada.", "gorsel": "the cartoon fox smiling, thumbs up, colorful background" }
+    ]
+  },
+  {
+    "baslik": "ÖRNEK BÖLÜM 2",
+    "sahneler": [
+      { "metin": "Yeni bölümün ilk sahnesi.", "gorsel": "a cartoon rabbit reading a book under a tree" },
+      { "metin": "Devam eden sahne.", "gorsel": "the cartoon rabbit jumping happily, motion lines" }
+    ]
+  }
+]
